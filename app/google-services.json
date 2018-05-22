@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "291441090533",
+    "firebase_url": "https://srrcloud.firebaseio.com",
+    "project_id": "srrcloud",
+    "storage_bucket": "srrcloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291441090533:android:eeaec9205d21cb1d",
+        "android_client_info": {
+          "package_name": "com.example.android.logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291441090533-4l2jdvsqcvpadfkvjj0m29e9dtmvn029.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.logindemo",
+            "certificate_hash": "a1f0c77182263e6c8afc83ed0e6c923a7d00e618"
+          }
+        },
+        {
+          "client_id": "291441090533-orkbi2n1idp723fugp1qps5us76580p1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkADz9DPGaNFVJceKNxiAqdixsxRdwYGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291441090533-orkbi2n1idp723fugp1qps5us76580p1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
